@@ -1,2 +1,2 @@
 # ComputerVision101
-Implementation of basic computer vision algorithms
+Implementations of basic computer vision algorithms
